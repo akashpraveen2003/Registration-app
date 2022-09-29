@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528387549169",
+    "project_id": "registeration-app-1c43d",
+    "storage_bucket": "registeration-app-1c43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528387549169:android:8ce5d27095f6daedcfc650",
+        "android_client_info": {
+          "package_name": "com.example.admissionregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528387549169-a1gc84v6e6aqj712m2tkbl6fftat5ipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgs-13bsfE2qgI-t8MSu5xDkpiGllszM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528387549169-a1gc84v6e6aqj712m2tkbl6fftat5ipi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

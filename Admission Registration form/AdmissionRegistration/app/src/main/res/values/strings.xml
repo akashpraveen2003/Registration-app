@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Admission Registration</string>
+    <string name="name">Enter Your Name</string>
+    <string name="parent_name">Enter  Your  Parent  Name</string>
+    <string name="Community">Enter Your Community</string>
+    <string name="number">Enter Your Mobile Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="next">Next</string>
+    <string name="street">Door no / Street name</string>
+    <string name="address">ADDRESS</string>
+    <string name="area">Area name</string>
+    <string name="city">City name / Village name</string>
+    <string name="pincode">Pincode</string>
+    <string name="email_address">Enter Your email</string>
+    <string name="std_ten">10th STANDARD</string>
+    <string name="school">School Name</string>
+    <string name="mark">Mark Score (%)</string>
+    <string name="std_twelve">12th STANDARD</string>
+    <string name="register">REGISTER</string>
+    <string name="cutoff">Cut Off</string>
+</resources>
